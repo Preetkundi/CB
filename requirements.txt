@@ -7,3 +7,4 @@ langchain
 langgraph
 langchain_groq
 sentence-transformers
+gunicorn
